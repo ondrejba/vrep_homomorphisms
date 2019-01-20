@@ -1,0 +1,6 @@
+[submodule "fully_conv_robotic_rl"]
+	path = fully_conv_robotic_rl
+	url = git@github.com:ColinKohler/fully_conv_robotic_rl.git
+[submodule "vrep_arm_toolkit"]
+	path = vrep_arm_toolkit
+	url = https://github.com/ColinKohler/vrep_arm_toolkit.git
